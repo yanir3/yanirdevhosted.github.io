@@ -1,0 +1,20 @@
+Deployment Information
+======================
+Build Date: Wed Nov  5 17:11:21 +07 2025
+Domain: yanir.dev
+Build Directory: build
+
+Files Included:
+- HTML pages:       10
+- CSS files:        1
+- Total size: 2.9M
+
+Deployment Checklist:
+☐ Update domain in sitemap.xml (currently: yanir.dev)
+☐ Upload all files to web server
+☐ Verify robots.txt is accessible
+☐ Submit sitemap to Google Search Console
+☐ Test 404 page
+☐ Verify all links work
+☐ Check mobile responsiveness
+☐ Test page load speed

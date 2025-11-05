@@ -1,2 +1,14 @@
+# robots.txt
+
 User-agent: *
-Disallow:
+Allow: /
+
+# Sitemaps
+Sitemap: /sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
+
+# Disallow crawling of assets that don't need indexing
+User-agent: *
+Disallow: /assets/
